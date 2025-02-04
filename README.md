@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Franklin Pereira de Souza, desenvolvedor com experiência em **Python**, **Django**, **HTML**, **CSS**, e **SQL**. Sou apaixonado por tecnologia, aprendizado contínuo e por transformar ideias em soluções inovadoras. Atualmente, estou cursando **Ciências Econômicas**, complementando minha habilidade de criar projetos com um olhar estratégico e analítico.
+Me chamo Franklin Pereira de Souza, formado em Analise e Desenvolvimento de Sistemas e desenvolvedor com experiência em **Python**, **Django**, **HTML**, **CSS**, e **SQL**. Sou apaixonado por tecnologia, aprendizado contínuo e por transformar ideias em soluções inovadoras. Atualmente, estou cursando **Ciências Econômicas**, complementando minha habilidade de criar projetos com um olhar estratégico e analítico.
 
 <a href="https://github.com/KymDev?tab=repositories&sort=stargazers">
     <img 
